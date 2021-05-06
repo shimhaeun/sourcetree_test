@@ -1,4 +1,4 @@
-##### sourcetree_test
+## sourcetree_test
 ------------------------
 * source
 * * tree
